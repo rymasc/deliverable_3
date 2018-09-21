@@ -1,0 +1,37 @@
+Idea
+
+Build a device that quantifies energy harvesting rates for solar, vibration, rf, and thermal energies.
+It will determine the amount harvested as well as if it will support applications.
+We will write two applications and determine their energy use with static code analysis.
+
+Midterm Goals
+
+Two things to do Harvesting Measurement & Usage:
+
+HM
+
+-Get Harvesting devices
+-Build the boards
+-Verify they work
+-Measure a fews
+
+U
+-Get Sensors
+-Build apps
+-Verify power usage
+
+Final Finish the main idea
+
+FW:
+effects of multiple energy harvesters at once
+
+Type of Applications
+1) sensor -> fram
+2) sensor -> radio
+3) sensor -> higher freq radio *optional
+
+abstract
+intro/rw
+proposal
+plan
+references
